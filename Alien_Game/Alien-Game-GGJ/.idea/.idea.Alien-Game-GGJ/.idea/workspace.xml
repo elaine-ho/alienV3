@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67ff26f8-521d-423e-950e-c3b805ac098f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/alien.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/alien.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/asteroid4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/asteroid4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/blackhole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/blackhole.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/meteor3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/meteor3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/meteor4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/meteor4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/meteor5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/meteor5.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_airbenders.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_airbenders.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_badadee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_badadee.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_earth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_earth.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_idktbh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_idktbh.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_maple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_maple.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_smash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_smash.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_wild.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_wild.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/son.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/son.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/wormhole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art Assets/wormhole.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/-----Cameras-----.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/-----UI-----.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/---Static Obstacles---.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Boundary.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Space.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Space.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Aljons Scene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BlackholeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Alien-Game-GGJ/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Alien-Game-GGJ/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art Assets/7rings.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_rings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art Assets/7rings.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art Assets/planet_rings.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art Assets/BackGround.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art Assets/BackGround.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art Assets/rectangle-white-png-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art Assets/white_rectangle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art Assets/rectangle-white-png-5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art Assets/white_rectangle.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art Assets/rocket.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art Assets/rocket.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/-----Cameras-----.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/__MACOSX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/__MACOSX/._Rocket_Accelerate.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/__MACOSX/._Rocket_Idle.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/__MACOSX/._Rocket_Start.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/__MACOSX/._Rocket_Stops.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AudioManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/AsteroidBelt.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/AsteroidBelt.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Boundary.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/CapacityCounter.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/CapacityCounter.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/---Static Obstacles---.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/FuelBar.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/FuelBar.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/-----UI-----.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HealthBar.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HealthBar.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Planet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Planet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Planet.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Planet.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/PlayerCharacter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/PlayerCharacter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Resources.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Resources.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Aljons Scene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Omars Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Omars Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AsteroidBeltController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AsteroidBeltController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BlackholeController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Rocket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Rocket.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Rocket.cs.meta" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="926936580">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="2323" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="2323" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="4" />
+          <entry key="meta" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-965669515">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="989" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="989" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Program Files/Unity/Orc_Platformer/Orc Game/Assets/NewScripts/Player_Movement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="112" column="39" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rocket.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+              <folding>
+                <marker date="1548551459323" expanded="true" signature="6:148" ph="..." />
+                <marker date="1548551459323" expanded="true" signature="185:3243" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="836:1027" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="1054:1188" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="1083:1136" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="1221:2888" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="1261:1345" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="1381:1467" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="1552:1880" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="1653:1715" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="1755:1818" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="1893:2095" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="1986:2041" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="2133:2321" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="2235:2298" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="2367:2575" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="2447:2509" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="2626:2708" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="2778:2828" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="2941:3036" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="2982:3030" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="3078:3241" ph="{...}" />
+                <marker date="1548551459323" expanded="true" signature="3182:3235" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rocket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Program Files/Unity/Orc_Platformer/Orc Game/Assets/NewScripts/Player_Movement.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Planet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Rocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Sounds.cs" />
+        <option value="$PROJECT_DIR$/Assets/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rocket.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67ff26f8-521d-423e-950e-c3b805ac098f" name="Default Changelist" comment="" />
+      <created>1548484056257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548484056257</updated>
+      <workItem from="1548484062328" duration="27000" />
+      <workItem from="1548484531771" duration="5455000" />
+      <workItem from="1548522538594" duration="10930000" />
+      <workItem from="1548539928359" duration="9011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25423000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2560175" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="14" />
+      <window_info active="true" anchor="bottom" id="Build" order="15" visible="true" weight="0.31325302" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Program Files/Unity/Orc_Platformer/Orc Game/Assets/NewScripts/BasicWeapon.cs.meta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Planet.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Rocket.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/Sounds.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/AudioManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Unity/Orc_Platformer/Orc Game/Assets/NewScripts/Player_Movement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="112" column="39" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rocket.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+          <folding>
+            <marker date="1548551459323" expanded="true" signature="6:148" ph="..." />
+            <marker date="1548551459323" expanded="true" signature="185:3243" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="836:1027" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="1054:1188" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="1083:1136" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="1221:2888" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="1261:1345" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="1381:1467" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="1552:1880" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="1653:1715" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="1755:1818" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="1893:2095" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="1986:2041" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="2133:2321" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="2235:2298" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="2367:2575" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="2447:2509" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="2626:2708" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="2778:2828" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="2941:3036" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="2982:3030" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="3078:3241" ph="{...}" />
+            <marker date="1548551459323" expanded="true" signature="3182:3235" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
