@@ -413,7 +413,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9054336043994387495}
-  - component: {fileID: 9054336043994387493}
   m_Layer: 0
   m_Name: DialogueBox
   m_TagString: Untagged
@@ -436,22 +435,3 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &9054336043994387493
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9054336043994387494}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e0c89275a148d29429fcfadfbc62d6e6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  textBox: {fileID: 9054336043994387494}
-  text: {fileID: 9054336043068013091}
-  textFile: {fileID: 4900000, guid: a9b609fd59df6fa48b580b8b08bfce22, type: 3}
-  player: {fileID: 0}
-  textLines: []
-  currentLine: 0
-  endAtLine: 0

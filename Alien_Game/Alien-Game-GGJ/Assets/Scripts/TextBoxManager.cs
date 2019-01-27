@@ -6,19 +6,41 @@ using UnityEngine.UI;
 
 public class TextBoxManager : MonoBehaviour
 {
-    public GameObject textBox;
+    public GameObject dialogueBox;
+    public GameObject optionBox;
     public Text text;
     public TextAsset textFile;
+    
     public Rigidbody2D player;
     
     public string[] textLines;
     public int currentLine;
     public int endAtLine;
-    
-    void Start()
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        optionBox.SetActive(true);
+    }
+
+    void OnTriggerExit2D(Collider2D other)
+    {
+        optionBox.SetActive(false);
+    }
+
+    private void FixedUpdate()
+    {
+        if (Input.GetKeyDown(KeyCode.Return))
+        {
+            StartDialogue();
+        }
+    }
+
+    private void StartDialogue()
     {
         player.velocity = Vector2.zero;
-        
+
+        dialogueBox.SetActive(true);
+
         if (textFile != null)
         {
             textLines = textFile.text.Split(('~'));
@@ -28,25 +50,26 @@ public class TextBoxManager : MonoBehaviour
         {
             endAtLine = textLines.Length - 1;
         }
-    }
 
-    void FixedUpdate()
-    {
-        text.text = textLines[currentLine];
-
-        if (Input.GetKeyDown(KeyCode.Return))
+        for (int i = 0; i < endAtLine; i++)
         {
-            currentLine += 1;
-        }
+            text.text = textLines[currentLine];
 
-        if (currentLine > endAtLine)
-        {
-            textBox.SetActive(false);
-        }
+            if (Input.GetKeyDown(KeyCode.Return))
+            {
+                currentLine = i;
+            }
 
-        if (currentLine != endAtLine)
-        {
-            player.velocity = Vector2.zero;
+            if (currentLine > endAtLine)
+            {
+                dialogueBox.SetActive(false);
+                break;
+            }
+
+            if (currentLine != endAtLine)
+            {
+                player.velocity = Vector2.zero;
+            }
         }
     }
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\OmarH\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\OmarH\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Alien-Game-GGJ.-250759313.00" t="ExcludeRecursive" />
-    <e p="D:\Projects\Alien_Remake\Alien-Game-GGJ" t="IncludeRecursive">
+    <e p="C:\Users\aljon\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\aljon\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Alien-Game-GGJ.-1402080934.00" t="ExcludeRecursive" />
+    <e p="C:\Users\aljon\Documents\GitHub\alienV3\Alien_Game\Alien-Game-GGJ" t="IncludeRecursive">
       <e p="Alien-Game-GGJ.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -12,10 +12,28 @@
           <e p="AudioManager.cs" t="Include" />
           <e p="BlackholeController.cs" t="Include" />
           <e p="HUDController.cs" t="Include" />
-          <e p="PlanetController.cs" t="Include" />
+          <e p="Laser.cs" t="Include" />
           <e p="Resources.cs" t="Include" />
           <e p="Rocket.cs" t="Include" />
+          <e p="Rotation.cs" t="Include" />
           <e p="Sounds.cs" t="Include" />
+          <e p="TextBoxManager.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
+          <e p="wormhole.cs" t="Include" />
+        </e>
+        <e p="Text Files" t="Include">
+          <e p="1. Common Planet.txt" t="Include" />
+          <e p="10. Jagd Kraing.txt" t="Include" />
+          <e p="2. Farming Planet.txt" t="Include" />
+          <e p="3. UwU.txt" t="Include" />
+          <e p="4. Som Nam Bul.txt" t="Include" />
+          <e p="5. Limera.txt" t="Include" />
+          <e p="6. Equinox.txt" t="Include" />
+          <e p="7. DAS.txt" t="Include" />
+          <e p="8. Sonora.txt" t="Include" />
+          <e p="9. Aether.txt" t="Include" />
+          <e p="EXAMPLE.txt" t="Include" />
+          <e p="Opening Scene.txt" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
